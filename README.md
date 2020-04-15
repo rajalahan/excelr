@@ -33,5 +33,7 @@
       * [Extract reviews of (Diapers) product from ecommerce website like amazon](https://github.com/rajalahan/excelr/blob/master/textmining/amazon.ipynb)
 - Day 11:->[Decision Tree](https://github.com/rajalahan/excelr/tree/master/decisiontree)     
       * [Prepare a model on fraud data who have taxable_income <= 30000 as "Risky" and others are "Good" using decision trees](https://github.com/rajalahan/excelr/blob/master/decisiontree/risky-or-good.ipynb)
-    
-      * []()
+- Day 12:->[SVM](https://github.com/rajalahan/excelr/tree/master/svm)    
+      * [Classification model using SVM for salary data( predict wether Salary person is <=50K or >50K](https://github.com/rajalahan/excelr/blob/master/svm/svm%20salary%20data.ipynb)
+      * [Classification model using Naive Bayes for salary data( predict wether Salary person is <=50K or >50K](https://github.com/rajalahan/excelr/blob/master/naive/Naive%20Bayes%20salary%20data.ipynb)
+   
