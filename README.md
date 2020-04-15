@@ -24,7 +24,6 @@
       * [Perform clustering (Both hierarchical and K means clustering) for the airlines data to obtain optimum number of clusters.](https://github.com/rajalahan/excelr/blob/master/clustering/crimeanalysis.ipynb)
 - Day 9:->[Naive Bayes](https://github.com/rajalahan/excelr/tree/master/naive)      
       * [Build a naive Bayes model on the data set for classifying the ham and spam](https://github.com/rajalahan/excelr/blob/master/naive/spam-ham.ipynb)
-      * [Classification model using Naive Bayes for salary data( predict wether Salary person is <=50K or >50K](https://github.com/rajalahan/excelr/blob/master/naive/Naive%20Bayes%20salary%20data.ipynb)
 - Day 9.1:->[Text Mining](https://github.com/rajalahan/excelr/tree/master/textmining)      
       * [Perform sentimental analysis on the tweets of Donald Trump](https://github.com/rajalahan/excelr/blob/master/textmining/donald_trump.ipynb)
       * [Soft twitter extraction review](https://github.com/rajalahan/excelr/blob/master/textmining/soft_twitter_extraction_review.ipynb)
