@@ -35,4 +35,7 @@
 - Day 12:->[SVM](https://github.com/rajalahan/excelr/tree/master/svm)    
       * [Classification model using SVM for salary data( predict wether Salary person is <=50K or >50K](https://github.com/rajalahan/excelr/blob/master/svm/svm%20salary%20data.ipynb)
       * [Classification model using Naive Bayes for salary data( predict wether Salary person is <=50K or >50K](https://github.com/rajalahan/excelr/blob/master/naive/Naive%20Bayes%20salary%20data.ipynb)
-   
+ - Day 13:->[Neural Network](https://github.com/rajalahan/excelr/tree/master/neural)
+      * [PREDICT THE BURNED AREA OF FOREST FIRES WITH NEURAL NETWORKS](https://github.com/rajalahan/excelr/blob/master/neural/fireforest-nn.ipynb)
+      * [Prepare a model for strength of concrete data using Neural Networks](https://github.com/rajalahan/excelr/blob/master/neural/concreate-strength-nn.ipynb)
+      * [Build a Neural Network model for 50_startups data to predict profit](https://github.com/rajalahan/excelr/blob/master/neural/predict%20profit.ipynb)
