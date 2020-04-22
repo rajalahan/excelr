@@ -39,3 +39,5 @@
       * [PREDICT THE BURNED AREA OF FOREST FIRES WITH NEURAL NETWORKS](https://github.com/rajalahan/excelr/blob/master/neural/fireforest-nn.ipynb)
       * [Prepare a model for strength of concrete data using Neural Networks](https://github.com/rajalahan/excelr/blob/master/neural/concreate-strength-nn.ipynb)
       * [Build a Neural Network model for 50_startups data to predict profit](https://github.com/rajalahan/excelr/blob/master/neural/predict%20profit.ipynb)
+ - Day 14:->[Forecasting](https://github.com/rajalahan/excelr/tree/master/forecasting)
+      * [Forecast the Airlines Passengers data set for 10 years](https://github.com/rajalahan/excelr/blob/master/forecasting/Forecast%20airlines.ipynb)
