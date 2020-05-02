@@ -43,7 +43,7 @@
       * [Forecast the Airlines Passengers data set for 10 years](https://github.com/rajalahan/excelr/blob/master/forecasting/Forecast%20airlines.ipynb)
       -------------------------------------------------------------------------------------------------------------------
  - Day 15:->[Hypothesis](https://github.com/rajalahan/excelr/tree/master/hypothesis)
-      * [https://github.com/rajalahan/excelr/blob/master/hypothesis/assignment-hypothesis.docx]   
+      * [Hypothesis Assignment in word](https://github.com/rajalahan/excelr/blob/master/hypothesis/assignment-hypothesis.docx)   
       * [DecisionTree-A cloth manufacturing company is interested to know about the segment or attributes causes high sale](https://github.com/rajalahan/excelr/blob/master/decisiontree/company_sale.ipynb)
       * [SVM-PREDICT THE BURNED AREA OF FOREST FIRES ( Small , Large)](https://github.com/rajalahan/excelr/blob/master/svm/fireforest_svm.ipynb)
  - Day 15.1:->[RandomForest](https://github.com/rajalahan/excelr/tree/master/randomforest)
