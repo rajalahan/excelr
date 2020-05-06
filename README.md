@@ -50,3 +50,6 @@
       * [Build Random Forest for the 'Iris' data](https://github.com/rajalahan/excelr/blob/master/randomforest/Random%20Forest%20iris.ipynb)
       * [A cloth manufacturing company is interested to know about the segment or attributes causes high sale](https://github.com/rajalahan/excelr/blob/master/randomforest/company_sale.ipynb) 
       * [Use Random Forest to prepare a model on fraud data treating those who have taxable_income <= 30000 as "Risky" and others are "Good"!](https://github.com/rajalahan/excelr/blob/master/randomforest/risky-or-good-random-forest.ipynb)
+      ----------------------------------------------------------------------------------------------------------------------------
+ - Day 16:->[Forecast the CocaCola prices data set](https://github.com/rajalahan/excelr/blob/master/forecasting/CocaCola%20prices.ipynb)
+      * [Forecast the PlasticSales data set](https://github.com/rajalahan/excelr/blob/master/forecasting/plasticsales.ipynb)
